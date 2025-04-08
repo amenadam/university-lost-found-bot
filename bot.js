@@ -13,7 +13,7 @@ function showMainMenu(ctx) {
       keyboard: [
         [{ text: "Report Lost Item" }],
         [{ text: "Report Found Item" }],
-        [{ text: "Browse Items" }],
+        //  [{ text: "Browse Items" }],
       ],
       resize_keyboard: true,
     },
